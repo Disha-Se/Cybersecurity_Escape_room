@@ -65,6 +65,10 @@ cybersecurity-escape-room/
 
 ```
 ---
+## Screenshot of the project
+
+![image](https://github.com/user-attachments/assets/6a98cb66-a89c-450f-9a9f-1a55b2a8dfb2)
+
 
 ## 📣 Let's Connect
 LinkedIn: https://www.linkedin.com/in/disha-s-963626260/
